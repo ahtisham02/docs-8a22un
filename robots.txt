@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-pnw2mc.salamcuanwin.cfd/sitemap.xml
